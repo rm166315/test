@@ -1,0 +1,4 @@
+#ignore all png files
+*png
+#ignore plots folder
+receipts/plots/
